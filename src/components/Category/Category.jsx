@@ -9,11 +9,11 @@ const Category = () => {
             </div>
             <div className="category">
                 
-                <li>SOFA</li>
-                <li>LIGHTS</li>
-                <li>CHAIR</li>
-                <li>WARDROBE</li>
-                <li>ALL</li>
+                <li className='hov'>SOFA</li>
+                <li className='hov'>LIGHTS</li>
+                <li className='hov'>CHAIR</li>
+                <li className='hov'>WARDROBE</li>
+                <li className='hov'>ALL</li>
             </div>
         
     </div>

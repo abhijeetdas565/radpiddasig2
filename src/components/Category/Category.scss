@@ -25,6 +25,12 @@
             gap: 30px;
             justify-content: space-between;
             cursor: pointer;
+            .hov{
+
+                &:hover {
+                    opacity: 0.6;
+            }
+            }
     }
 
 
